@@ -1,3 +1,17 @@
-<!DOC TYPE html>
-<html = lang="en">
-<head></head>
+body {
+    background-color: darkblue;
+}
+
+
+
+.flex-container {
+    background-color: blue;
+    display: flex;
+    gap: 10;
+    
+}
+
+h1 {
+    color: red ;
+    text-align: center;
+}
